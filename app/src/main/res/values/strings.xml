@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PaymentsApp</string>
+    <string name="payment_transactions_are_stored_in_payments_txt_file">Payment transactions are stored in payments.txt file</string>
+    <string name="open_file">Open File</string>
+    <string name="click_on_add_payment_button_to_add_a_payment_transaction">Click on Add Payment button to add a payment transaction</string>
+    <string name="no_payments_added_yet">No payments added yet. \n</string>
+    <string name="total_amount_rs">Total Amount: Rs. %1$s</string>
+    <string name="add_payment">Add Payment</string>
+    <string name="payment_transactions">Payment Transactions</string>
+    <string name="save_payments">Save Payments</string>
+    <string name="payment_transactions_file">Payment Transactions File</string>
+    <string name="close">Close</string>
+    <string name="select_payment_type">Select Payment Type</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="amount">Amount</string>
+    <string name="provider_icici_citibank_etc">Provider ( ICICI, Citibank, etc...</string>
+    <string name="transaction_reference">Transaction Reference</string>
+</resources>
